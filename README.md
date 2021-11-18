@@ -11,7 +11,7 @@ ft_printf is a 42 Project that aims to mimic libc printf function.
 
 **Mandatory part**
 
-| instructions  | Description   |
+| Instructions  | Description   |
 |:-------------:|---------------|
 | %c            | print a single character |
 | %s            | print a string of characters |
