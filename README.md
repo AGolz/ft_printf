@@ -9,7 +9,7 @@
 ft_printf is a 42 Project that aims to mimic libc printf function.
 
 
-**Mandatory part**
+**Mandatory part :**
 
 | Instructions  | Description   |
 |:-------------:|---------------|
