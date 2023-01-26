@@ -27,6 +27,6 @@ ft_printf is a 42 Project that aims to mimic libc printf function.
 
 [Project instructions](/en.subject.pdf)
 
-Need help: cfiora@student.21-school.ru
+Need help: emaksimo@student.42yerevan.am
 
 Special thanks: [aleliver](https://github.com/alelievr) for the [printf-unit-test](https://github.com/alelievr/printf-unit-test)
